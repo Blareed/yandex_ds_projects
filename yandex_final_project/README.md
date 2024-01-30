@@ -1,6 +1,6 @@
 # Прогнозирование оттока клиентов
 
-    [ipynb](https://github.com/Blareed/yandex_ds_projects/blob/51288352bf5991f423711ce479270b48fc8ec4d3/yandex_final_project/%D0%B8%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20yandex.ipynb)
+[ipynb](https://github.com/Blareed/yandex_ds_projects/blob/51288352bf5991f423711ce479270b48fc8ec4d3/yandex_final_project/%D0%B8%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20yandex.ipynb)
 
 ## Описание проекта
 
