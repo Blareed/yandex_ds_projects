@@ -1,4 +1,4 @@
-# Portfolio
+# Yandex Practicum DS Projects
 
 Список реализованных проектов при прохождении курса Специалсит Data Science.
 
